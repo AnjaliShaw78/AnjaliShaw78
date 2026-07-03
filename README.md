@@ -1,18 +1,30 @@
 ## Hi there 👋
 <img align="right" alt="codingGirl" width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
 
-# 👩‍💻 About Me
+### 🚀 About Me
 
-I'm a **QA Engineer** with **2 years of experience** building and maintaining automated test suites for **high-traffic production systems**. I specialize in **Web, API, and Mobile Testing**, and I use **AI-assisted tools** such as **Claude AI** and **Cursor** to improve test development efficiency while maintaining quality.
+I'm a **QA Engineer** with **2 years of experience** in **Web, API, and Mobile Testing**, passionate about building reliable automation frameworks and delivering high-quality software. I enjoy solving testing challenges, improving release quality, and using modern tools to make testing faster and more efficient.
 
-- 💼 **2 years of experience** in **Automation and Manual Testing**
-- 🧪 Built and maintained **200+ automated test cases** using **Cypress, Playwright, and WebdriverIO** across **20+ product features**
-- ⚡ Leveraged **AI-assisted scripting** to **reduce test development effort by 40%**
-- 💳 Tested **high-impact workflows** such as **checkout**, supporting **1,000+ daily transactions**
-- 🚀 Contributed to **20+ production releases** through **Web, API, Mobile, Data Migration, and Event Testing**
-- 🛠️ Experienced with **MongoDB**, **Google Cloud Platform (GCP)**, **Git**, and modern **QA workflows**
+💻 **What I do**
+- Build and maintain **automation test suites** using **Cypress, Playwright, WebdriverIO, and Selenium**
+- Perform **Functional, Regression, API, Mobile, Data Migration, and Event Testing**
+- Work closely with developers to identify defects early and ensure smooth production releases
 
----
+📊 **Highlights**
+- 🧪 Built and maintained **200+ automated test cases** across **20+ product features**
+- ⚡ Reduced test development effort by **40%** using **AI-assisted tools** such as **Claude AI** and **Cursor**
+- 💳 Validated **high-impact checkout workflows** handling **1,000+ daily transactions**
+- 🚀 Contributed to **20+ production releases**, ensuring stable and high-quality deployments
+
+🛠️ **Technologies I work with**
+- **Automation:** Cypress, Playwright, WebdriverIO, Selenium
+- **Languages:** JavaScript, Java, Python
+- **Tools:** Postman, Jenkins, Git, MongoDB, Google Cloud Platform (GCP)
+
+🌱 **Currently Learning**
+- Advanced **Playwright**
+- **API Automation** with modern frameworks
+- **CI/CD** best practices and scalable test automation
 Passionate about ensuring software quality through effective testing strategies.
 # 🛠 Skills
  <h3 align="left">Languages and Tools:</h3>
