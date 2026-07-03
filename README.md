@@ -3,15 +3,16 @@
 
 # 👩‍💻 About Me
 
-I'm a QA Engineer with 2 years of experience building and maintaining automated test suites for high-traffic production systems. I specialize in **web, API, and mobile testing**, and I use AI-assisted tools such as **Claude AI** and **Cursor** to improve test development efficiency while maintaining quality.
+I'm a **QA Engineer** with **2 years of experience** building and maintaining automated test suites for **high-traffic production systems**. I specialize in **Web, API, and Mobile Testing**, and I use **AI-assisted tools** such as **Claude AI** and **Cursor** to improve test development efficiency while maintaining quality.
 
-- 💼 QA Engineer with **2 years of experience** in automation and manual testing
-- 🧪 Built and maintained **200+ automated test cases** using Cypress, Playwright, and WebdriverIO across **20+ product features**
-- ⚡ Leveraged AI-assisted scripting to **reduce test development effort by 40%**
-- 💳 Tested high-impact workflows such as checkout, supporting **1,000+ daily transactions**
-- 🚀 Contributed to **20+ production releases** through web, API, mobile, data migration, and event testing
-- 🛠️ Experienced with **MongoDB**, **Google Cloud Platform (GCP)**, **Git**, and modern QA workflows
+- 💼 **2 years of experience** in **Automation and Manual Testing**
+- 🧪 Built and maintained **200+ automated test cases** using **Cypress, Playwright, and WebdriverIO** across **20+ product features**
+- ⚡ Leveraged **AI-assisted scripting** to **reduce test development effort by 40%**
+- 💳 Tested **high-impact workflows** such as **checkout**, supporting **1,000+ daily transactions**
+- 🚀 Contributed to **20+ production releases** through **Web, API, Mobile, Data Migration, and Event Testing**
+- 🛠️ Experienced with **MongoDB**, **Google Cloud Platform (GCP)**, **Git**, and modern **QA workflows**
 
+---
 Passionate about ensuring software quality through effective testing strategies.
 # 🛠 Skills
  <h3 align="left">Languages and Tools:</h3>
