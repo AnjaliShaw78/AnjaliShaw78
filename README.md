@@ -34,5 +34,5 @@ Passionate about ensuring software quality through effective testing strategies.
 ## 🌱 Currently Learning
  Mobile App Testing: Built mobile test cases with Appium for Android apps.
 
-Continuous integration with Jenkins and GitHub Actions.
+**CI/CD** best practices and scalable test automation using **AI-assisted tools**
 
