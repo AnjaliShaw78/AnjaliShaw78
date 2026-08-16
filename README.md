@@ -3,7 +3,7 @@
 
 ### 🚀 About Me
 
-I'm a **QA Engineer** with **2 years of experience** in **Web, API, and Mobile Testing**, passionate about building reliable automation frameworks and delivering high-quality software. I enjoy solving testing challenges, improving release quality, and using modern tools to make testing faster and more efficient.Passionate about ensuring software quality through effective testing strategies.
+I'm a **QA Engineer** with **1.8 years of experience** in **Web, API, and Mobile Testing**, passionate about building reliable automation frameworks and delivering high-quality software. I enjoy solving testing challenges, improving release quality, and using modern tools to make testing faster and more efficient.Passionate about ensuring software quality through effective testing strategies.
 
 💻 **What I do**
 - Build and maintain **automation test suites** using **Cypress, Playwright, WebdriverIO, and Selenium**
